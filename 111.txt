@@ -1,0 +1,6 @@
+git config --global user.name BTlove999
+git config --global user.email 76422636@qq.com
+ssh-keygen -t rsa -C 76422636@qq.com
+
+
+https://github.com/BTlove999/test.git
